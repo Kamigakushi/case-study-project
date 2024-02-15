@@ -1,0 +1,24 @@
+#icon
+{
+    width: 10% ;
+    height: 20% ;
+}
+#Bottle
+{
+    width: 80%;
+    height:30%;
+}
+#container
+{
+    background-color: pink;
+    width:fit-content;
+    box-shadow: 5px 5px 5px black;
+    opacity: 0.7;
+    border-radius: 2%;
+}
+#heading
+{
+    background-color: plum;
+    opacity: 0.8;
+    font-family:cursive;
+}
